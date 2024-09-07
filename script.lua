@@ -16,7 +16,7 @@ e.Parent = game:WaitForChild("CoreGui")
 e.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 
 Main.Name = "Main"
-Main.Parent = Magnets
+Main.Parent = e
 Main.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Main.BorderColor3 = Color3.fromRGB(0, 0, 0)
 Main.BorderSizePixel = 0
